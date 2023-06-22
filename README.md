@@ -3,17 +3,23 @@
 To create an E-commerce application using SpringBoot and SQL.
 
 ## Algorithm:
-1.Open Spring Initialzr.
+### Step 1:-
+Open Spring Initialzr.
 
-2.Save the zip file.
+### Step 2:-
+Save the zip file.
 
-3.Open an IDE like IntelliJ,Oracle etc.
+### Step 3:-
+Open an IDE like IntelliJ,Oracle etc.
 
-4.Open the folder in the IDE.
+### Step 4:-
+Open the folder in the IDE.
 
-5.Create Components.
+### Step 5:-
+Create Components.
 
-6.Connect the database with the SpringBoot.
+### Step 6:-
+Connect the database with the SpringBoot.
 
 ## Program:
 Ecommerce.java
