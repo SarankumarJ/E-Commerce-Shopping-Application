@@ -1,4 +1,4 @@
-## Create a E-commerce Shopping application using reat,SpringBoot and SQL
+## Ex-26 Create a E-commerce Shopping application using reat,SpringBoot and SQL
 ## Aim:
 To create an E-commerce application using SpringBoot and SQL.
 
